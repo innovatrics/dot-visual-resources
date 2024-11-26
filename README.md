@@ -61,3 +61,14 @@ This folder contains the animation displayed to the user in the DOT demo apps wh
 ### Folder structure
 
 `lottie` Contains the animations in Lottie native format and in Lottie JSON format.
+
+## Processing animation
+
+This folder contains the animation displayed to the user in the DOT demo apps when processing the data captured by the [DOT Document Auto Capture](https://developers.innovatrics.com/digital-onboarding/docs/functionalities/document/auto-capture/) and [DOT Face Auto Capture](https://developers.innovatrics.com/digital-onboarding/docs/functionalities/face/auto-capture/) components.
+
+- processing <br />
+![processing](processing-animation/processing.gif)
+
+### Folder structure
+
+`lottie` Contains the animations in Lottie native format and in Lottie JSON format.
